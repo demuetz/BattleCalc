@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\WARIOdata\schuften\CSharpProjects\AxisAndAlliesBattleCalculator\BattleCalculator.Test\BattleCalculator.Test.nunit</TopNode>
+  <SelectedNode>[0-1024]BattleCalculator.Test.BattleTests.ResolveBattle_BattleshipHitOnce_ReplacedWithDamagedBattleship</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\WARIOdata\schuften\CSharpProjects\AxisAndAlliesBattleCalculator\BattleCalculator.Test\BattleCalculator.Test.nunit" Expanded="true" />
+    <Node UniqueName="[0-1026]C:\WARIOdata\schuften\CSharpProjects\AxisAndAlliesBattleCalculator\BattleCalculator.Test\bin\Release\BattleCalculator.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1027]BattleCalculator" Expanded="true" />
+    <Node UniqueName="[0-1028]BattleCalculator.Test" Expanded="true" />
+    <Node UniqueName="[0-1013]BattleCalculator.Test.BattleTests" Expanded="true" />
+    <Node UniqueName="[0-1005]BattleCalculator.Test.HitGeneratorTests" Expanded="true" />
+    <Node UniqueName="[0-1001]BattleCalculator.Test.SimulationResultsViewModelTests" Expanded="true" />
+  </Nodes>
+</VisualState>
